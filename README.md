@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**seshapranav/seshapranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Know about me :**
 
-Here are some ideas to get you started:
+- 💻 My name is **S̳e̳s̳h̳a̳ ̳P̳r̳a̳n̳a̳v̳**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Java, Python and Web Technologies
+
+- 🌱 I’m currently learning Advanced, Socket Programming.
+
+- 👯 I’m looking to collaborate and contribute to Open Source.
+
+- 🤔 I’m looking for interns in the domain of Python, Software and Web Development.
+
+- 💬 Ask me about any latest and boming technologies..
+
+- 📫 How to reach me: Linked in
+
+- 😀 😃 😄 😁 😆 😅  😇 🙂 🙃 😉
+
+- ⚡ Fact I follow : 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐢𝐬 𝐓𝐡𝐢𝐧𝐤𝐢𝐧𝐠, 𝐍𝐨𝐭 𝐓𝐲𝐩𝐢𝐧𝐠..
+
+- 👀 ░C░O░D░E░B░O░Y░
+
+- 👨‍💻 🅿🆈🆃🅷🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅴🆁 
+
+
+![image](https://drive.google.com/uc?export=view&id=1Ltuey4VLBQxGEABf6cE9NHIubIhWkUMg)
